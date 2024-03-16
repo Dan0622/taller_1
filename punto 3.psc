@@ -1,3 +1,11 @@
-/slides/slide11.xmläVËÛ6İè?Zµ~ÊˆX²Èt‚Lú4EÛL(’%igŒ @¥İeÑU.ºõŸôKzIIvf2LgZ @aÀ|èòòÜs.yùäÙUÍÑjÃ¤˜ÉY *ˆ¬˜XOƒ^—á8@ÆbQa.{j‚gO¿şê‰š^!X-ÌOƒµjE†lhÍ™TTÀ·•Ô5¶0Ôë¨Òøx­y”Æñ0ª1A»^ßg½\­¡sI¶5¶q¢)Ç›S¦ó¦îãMijÀ_}ÒSˆŒ\òÊµF½Ö”ºØ=×êR½Ôşó÷»—±
-ø
-À5ĞDí‡ÖÌÅÎw¢Ë×]O®Vºv-Ä†®¦¿wÿ‘›£W‘f’œfÉæâ[²YÜbuDŸ
+Algoritmo sin_titulo
+	Definir n1, n2, resultado como entero
+	Escribir "Ingrese el primer numero"
+	Leer n1
+	Escribir "Ingrese el segudo numero"
+	Leer n2
+	resultado<-n1+n2
+	Escribir " El resultado es: " + ConvertirAtexto(resultado)
+	Escribir "Gracias por crearme, soy tu calculadora personal."
+
+FinAlgoritmo
