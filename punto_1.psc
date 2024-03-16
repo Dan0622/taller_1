@@ -1,2 +1,4 @@
-1ëÍ‡›Ø•R¶ÁKhyŒ¼
-Úz#áı¸{z–zSğ$a¦›şña} 	K=Ê£™UŠÏÆRâ«Y
+Algoritmo punto_1
+	escribir "hola mundo"
+	
+FinAlgoritmo
